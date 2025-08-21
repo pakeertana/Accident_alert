@@ -40,6 +40,8 @@ dependencies:
   url_launcher: ^6.3.0
   http: ^1.2.0
   telephony: ^0.2.0
+  flutter_sms: ^2.3.3
+  sms_advanced: ^1.0.3
 
 
 
