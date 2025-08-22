@@ -34,15 +34,15 @@ dependencies:
   shared_preferences: ^2.2.3
   crypto: ^3.0.3
   sensors_plus: ^5.0.0
-  camera: ^0.10.5+9
-  permission_handler: ^11.3.1
   geolocator: ^14.0.2
   url_launcher: ^6.3.0
-  http: ^1.2.0
   telephony: ^0.2.0
   flutter_sms: ^2.3.3
   sms_advanced: ^1.0.3
-
+  camera: any
+  http: any
+  path_provider: any
+  permission_handler: any
 
 
 dev_dependencies:
