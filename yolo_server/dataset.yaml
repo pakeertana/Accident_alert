@@ -1,0 +1,6 @@
+train: C:/Users/HP/accident_alert/yolo_server/train/images
+val: C:/Users/HP/accident_alert/yolo_server/val/images
+test: C:/Users/HP/accident_alert/yolo_server/test/images
+
+nc: 2
+names: ['accident', 'no_accident']
